@@ -10,7 +10,7 @@
                 default: null
             },
             options:{
-                type:Object,
+                type:Object
                 default:null
             }
         },
